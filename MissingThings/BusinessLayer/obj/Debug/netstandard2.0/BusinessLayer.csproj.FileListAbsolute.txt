@@ -1,0 +1,11 @@
+E:\Nilam\KCITS_Project\MissingThings\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csprojAssemblyReference.cache
+E:\Nilam\KCITS_Project\MissingThings\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Nilam\KCITS_Project\MissingThings\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfoInputs.cache
+E:\Nilam\KCITS_Project\MissingThings\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfo.cs
+E:\Nilam\KCITS_Project\MissingThings\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.deps.json
+E:\Nilam\KCITS_Project\MissingThings\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.dll
+E:\Nilam\KCITS_Project\MissingThings\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.pdb
+E:\Nilam\KCITS_Project\MissingThings\BusinessLayer\bin\Debug\netstandard2.0\MyGeneration.dOOdads_2005.dll
+E:\Nilam\KCITS_Project\MissingThings\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CopyComplete
+E:\Nilam\KCITS_Project\MissingThings\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.dll
+E:\Nilam\KCITS_Project\MissingThings\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.pdb
